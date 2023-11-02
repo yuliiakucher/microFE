@@ -6,6 +6,7 @@ function App() {
         <div>
             <h1>Hello world</h1>
             <hr />
+            <hr />
             <MarketingApp />
         </div>
     )
