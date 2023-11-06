@@ -16,7 +16,6 @@ function App() {
                     </Switch>
                 </BrowserRouter>
             </StylesProvider>
-
         </div>
     )
 }
